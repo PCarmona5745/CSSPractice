@@ -1,13 +1,14 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+body {
+  padding: 25%;
+  font-size: 2rem;
 }
 
-.container {
-  border: dashed red;
-  font-size: 1.5rem;
-  padding: 1em;
-  margin: 1.5em;
-  padding: 1.5em;
+/* input,
+button {
+  font: inherit;
+} */
+
+p {
+  line-height: 2;
+  font-style: normal;
 }
