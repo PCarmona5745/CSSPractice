@@ -67,3 +67,20 @@ footer {
 footer ul {
   list-style-type: none;
 }
+
+.closed {
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: red;
+}
+
+.open {
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: green;
+  text-decoration: none;
+}
+
+.open:hover{
+  color: lime;
+}
